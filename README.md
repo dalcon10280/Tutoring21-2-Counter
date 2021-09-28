@@ -5,7 +5,7 @@
 ## 🔥 결과물
 <p align="middle">
     <img width="400" src="counter.gif">
-</p>
+</p>asdfasdf
 
 <p align="middle">
   <a href="https://dalcon10028.github.io/Tutoring21-2-Counter/">🖥️ DEMO</a>
